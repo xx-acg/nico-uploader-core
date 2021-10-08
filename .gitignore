@@ -6,3 +6,4 @@ venv/
 *.spec
 
 build/
+__pycache__/
